@@ -8,6 +8,8 @@ $ git clone https://github.com/roobini-gamer/SPY-DRONE.git
 
 $ cd SPY-DRONE
 
+$ chmod +x SPY-DRONE
+
 $ bash SPY-DRONE
 ```
 
